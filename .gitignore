@@ -1,0 +1,4 @@
+.*
+!.gitignore
+grub/*
+!grub/grub.cfg
